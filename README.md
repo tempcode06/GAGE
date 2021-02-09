@@ -1,2 +1,2 @@
 # GAGE
-Data and code for "GAGE: Geometry Preserving Attributed Graph Embeddings"
+Data and code for "Geometry Preserving Attributed Graph Embeddings"
